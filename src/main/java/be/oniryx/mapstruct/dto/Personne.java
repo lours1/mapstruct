@@ -1,6 +1,7 @@
 package be.oniryx.mapstruct.dto;
 
 import javax.xml.datatype.XMLGregorianCalendar;
+import java.util.Date;
 import java.util.List;
 
 public class Personne {
